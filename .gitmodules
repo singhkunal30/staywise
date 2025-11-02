@@ -1,3 +1,6 @@
 [submodule "services/staywise-discovery-service"]
 	path = services/staywise-discovery-service
 	url = https://github.com/singhkunal30/staywise-discovery-service.git
+[submodule "services/config-server"]
+	path = services/config-server
+	url = https://github.com/singhkunal30/staywise-config-server.git
